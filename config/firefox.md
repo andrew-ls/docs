@@ -2,6 +2,10 @@
 
 ## about:config
 
+`browser.tabs.closeWindowWithLastTab`  
+Whether to close a window when its last tab is closed.  
+_Default: `true`_  
+
 `browser.urlbar.trimURLs`  
 Whether to hide the `http` protocol and `www` subdomain in the address bar.  
 _Default: `true`_  
