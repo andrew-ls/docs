@@ -9,6 +9,9 @@ music. First you must have a soundfont file such as:
 
 * [Default Windows MIDI](https://musical-artifacts.com/artifacts/713)
   (3.2 MB)
+* [FluidSynth General MIDI](https://member.keymusician.com/Member/FluidR3_GM/index.html)
+  (148.4 MB)
+* [Roland SC-55](https://archive.org/details/SC55EmperorGrieferus) (108.4 MB)
 * [¥Weeds¥ General MIDI](http://www.simpilot.net/~richnagel/#downloads)
   (54.9 MB)
 
